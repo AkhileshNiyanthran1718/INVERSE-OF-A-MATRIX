@@ -19,6 +19,7 @@ A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 print(np.linalg.inv(A))
 ~~~
 ## Output:
-![alt text](<../Screenshot 2026-02-03 113827.png>)
+<img width="1903" height="1124" alt="Screenshot 2026-02-03 113827" src="https://github.com/user-attachments/assets/902a294b-b301-4085-b4ed-b8fc55e6cb95" />
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
