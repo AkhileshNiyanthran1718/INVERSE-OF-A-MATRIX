@@ -14,7 +14,6 @@ To write a python program to find the rank of a matrix
 #Program to find the inverse of a matrix.
 #Developed by: AKHILESH NIYANTHIRAN D
 #RegisterNumber: 25006847
-~Python
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 print(np.linalg.inv(A))
